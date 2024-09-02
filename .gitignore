@@ -1,0 +1,10 @@
+__pycache__/
+.env
+
+/data/game_pictures/test/*
+/data/game_pictures/train/*
+
+!data/game_pictures/test/.keep
+!data/game_pictures/train/.keep
+
+tester.py
